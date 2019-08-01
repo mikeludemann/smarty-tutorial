@@ -1,0 +1,16 @@
+{
+    "name": "mikeludemann/smarty-tutorial",
+    "description": "Smarty Tutorial",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mike Ludemann",
+            "email": "mike-ludemann@hotmail.de"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "smarty/smarty": "^3.1"
+    }
+}
